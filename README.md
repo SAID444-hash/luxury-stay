@@ -58,8 +58,7 @@ room3.jpg
 - Add room pricing and availability
 - Implement user authentication
 - Convert the project to React
-
----Your site is live at https://said444-hash.github.io/hotel-react-app/
+Your site is live at https://said444-hash.github.io/luxury-stay/
 
 ## Author
 Developed by: *HASSAN M SAID*
