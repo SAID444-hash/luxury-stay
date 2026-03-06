@@ -59,7 +59,7 @@ room3.jpg
 - Implement user authentication
 - Convert the project to React
 
----
+---Your site is live at https://said444-hash.github.io/hotel-react-app/
 
 ## Author
 Developed by: *HASSAN M SAID*
